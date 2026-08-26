@@ -10,3 +10,4 @@ USER 1000:1000
 ENV PYTHONUNBUFFERED=1
 ENTRYPOINT ["./hostinfo_server.py"]
 CMD ["9898"]
+
